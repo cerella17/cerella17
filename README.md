@@ -44,14 +44,5 @@ Designed and configured a multi-site IPv4 network with optimised subnetting, sta
 **Web Development**  
 `React Native` `Nuxt.js` `Firebase` `Supabase` `Figma`
 
-***
-
-## 📫 Get in Touch
-
-[
-[
-[
-
-***
 
 *"Security is not a product, but a process."* — Bruce Schneier
