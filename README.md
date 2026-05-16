@@ -22,7 +22,7 @@ I'm a computer science student specialising in cybersecurity, with hands-on expe
 ### 🔍 [CyberLook](https://cyberlookai.com/)
 AI-powered phishing email detection tool. Uses an LLM to analyse email text and metadata, generating a detailed risk report with preventive action suggestions.
 
-### 🔗 SafeChain
+### 🔗 [SafeChain](https://github.com/cerella17/IoTProject)
 IoT system integrating RFID, temperature and smoke sensors connected to a **blockchain** for secure access permission management. Includes IoT network vulnerability analysis and mitigation.
 
 ### 🌐 IPv4 Multi-Site Network Design *(Packet Tracer)*
