@@ -25,8 +25,6 @@ AI-powered phishing email detection tool. Uses an LLM to analyse email text and 
 ### 🔗 [SafeChain](https://github.com/cerella17/IoTProject)
 IoT system integrating RFID, temperature and smoke sensors connected to a **blockchain** for secure access permission management. Includes IoT network vulnerability analysis and mitigation.
 
-### 🌐 IPv4 Multi-Site Network Design *(Packet Tracer)*
-Designed and configured a multi-site IPv4 network with optimised subnetting, static routing, DHCP configuration and full technical documentation.
 
 ***
 
